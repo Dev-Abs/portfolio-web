@@ -33,7 +33,7 @@ Start the server
 
 Modify pages content in  `src/content_option.js`.
 
-### Credtis
+### Credits
 
 ## [ubaimut](https://github.com/ubaimutl)
 
