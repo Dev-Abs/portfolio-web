@@ -155,7 +155,7 @@ const services = [{
 },
 {
     title: "AI-Driven Healthcare Solutions",
-    description: "Developing AI-driven systems for the healthcare industry, including **EHR integration**, **Twilio-powered AI communication**, and API testing for healthcare-related applications.",
+    description: "Developing AI-driven systems for the healthcare industry, including EHR integration, Twilio-powered AI communication, and API testing for healthcare-related applications.",
 },
 {
     title: "Front-End Development with React",
